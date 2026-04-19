@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`103a35d`](https://github.com/stdlib-js/stdlib/commit/103a35d6da977625e0c040b224ef1766ba0e5ae8) - **style:** enable lint rule _(by Athan Reines)_
 -   [`b0cffa6`](https://github.com/stdlib-js/stdlib/commit/b0cffa6efa0aa05fa53e54874ad1523caa66f773) - **feat:** add `ndarray/rowcat` [(#11535)](https://github.com/stdlib-js/stdlib/pull/11535) _(by Muhammad Haris, Athan Reines)_
 
 </details>

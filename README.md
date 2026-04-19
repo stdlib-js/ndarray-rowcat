@@ -144,6 +144,8 @@ The function accepts the following arguments:
 
 ## Examples
 
+<!-- eslint no-undef: "error" -->
+
 ```javascript
 var discreteUniform = require( '@stdlib/random-discrete-uniform' );
 var ndarray2array = require( '@stdlib/ndarray-to-array' );
